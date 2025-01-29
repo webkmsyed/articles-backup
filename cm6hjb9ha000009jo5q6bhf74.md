@@ -63,8 +63,6 @@ This approach is a **game-changer** because it makes DeepSeek R1 more independen
 
 ![]( align="center")
 
-How does DeepSeek AI compare to OpenAI?
-
 | Feature | OpenAI (GPT-4) | DeepSeek AI |
 | --- | --- | --- |
 | Model Size | 1.7 Trillion Parameters | Similar but optimized |
