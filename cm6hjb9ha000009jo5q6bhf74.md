@@ -5,7 +5,7 @@ seoDescription: "DeepSeek R1: The AI Model Challenging OpenAI – Future or Hype
 datePublished: Wed Jan 29 2025 06:37:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm6hjb9ha000009jo5q6bhf74
 slug: deepseek-r1-the-ai-model-challenging-openai-future-or-hype
-tags: ai, 2articles1week, chaicode, jargoniseasy, webkmsyed
+tags: ai, 2articles1week, chaicode, deepseek, jargoniseasy, webkmsyed, deepseekr1
 
 ---
 
