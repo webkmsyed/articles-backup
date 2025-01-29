@@ -59,7 +59,7 @@ Think of RL as **learning through trial and error**. Imagine a child learning to
 
 This approach is a **game-changer** because it makes DeepSeek R1 more independent and capable of improving itself faster than traditional AI models.
 
-## **DeepSeek AI vs. OpenAI: A Comparison**
+## **DeepSeek AI vs OpenAI**
 
 ![]( align="center")
 
