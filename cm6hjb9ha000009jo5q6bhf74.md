@@ -59,6 +59,22 @@ Think of RL as **learning through trial and error**. Imagine a child learning to
 
 This approach is a **game-changer** because it makes DeepSeek R1 more independent and capable of improving itself faster than traditional AI models.
 
+## **DeepSeek AI vs. OpenAI: A Comparison**
+
+![]( align="center")
+
+How does DeepSeek AI compare to OpenAI?
+
+| Feature | OpenAI (GPT-4) | DeepSeek AI |
+| --- | --- | --- |
+| Model Size | 1.7 Trillion Parameters | Similar but optimized |
+| API Cost | Expensive | Affordable |
+| Open-Source | Limited Access | More Open |
+| Real-Time Processing | Advanced | Competitive |
+| Coding AI | GitHub Copilot | DeepSeek Coder |
+
+OpenAI is currently the leader, but DeepSeek AI’s **open-source approach** and lower costs may attract users.
+
 ## **Who Created DeepSeek R1?**
 
 DeepSeek AI, the company behind DeepSeek R1, is a **Chinese AI firm** that has been quietly working on AI models for years. While their earlier models didn’t gain much traction, **DeepSeek R1 has put them on the map**. With its **powerful performance, affordability, and open-source nature**, DeepSeek R1 has captured global attention and is now seen as a serious competitor to OpenAI and other tech giants.
