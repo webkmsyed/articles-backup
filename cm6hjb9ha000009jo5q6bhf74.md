@@ -59,6 +59,8 @@ This approach is a **game-changer** because it makes DeepSeek R1 more independen
 
 ## **DeepSeek AI vs OpenAI**
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738142773335/qBCtp_clS.png?auto=format align="center")
+
 | Feature | OpenAI (GPT-4) | DeepSeek AI |
 | --- | --- | --- |
 | Model Size | 1.7 Trillion Parameters | Similar but optimized |
