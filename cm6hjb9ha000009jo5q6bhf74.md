@@ -25,8 +25,6 @@ Its emergence has shocked the tech world by apparently showing it can achieve a 
 
 The big question on everyone’s mind is: **Is DeepSeek R1 the future of AI, or is it just another overhyped model?** Let’s dive in and explore what makes DeepSeek R1 special and whether it has what it takes to challenge OpenAI’s dominance.
 
-![]( align="center")
-
 ## **What is DeepSeek R1?**
 
 DeepSeek R1 is a **large language model (LLM)** developed by **DeepSeek AI**, a Chinese company specializing in AI research. Designed to generate text, answer questions, write code, and perform a wide range of AI-powered tasks, DeepSeek R1 stands out because it’s **open-source and free to use**. This means developers, researchers, and businesses can access and modify it without worrying about licensing fees or restrictions.
@@ -60,8 +58,6 @@ Think of RL as **learning through trial and error**. Imagine a child learning to
 This approach is a **game-changer** because it makes DeepSeek R1 more independent and capable of improving itself faster than traditional AI models.
 
 ## **DeepSeek AI vs OpenAI**
-
-![]( align="center")
 
 | Feature | OpenAI (GPT-4) | DeepSeek AI |
 | --- | --- | --- |
