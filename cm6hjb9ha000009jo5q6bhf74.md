@@ -49,7 +49,7 @@ Most AI models, including OpenAI’s GPT series, rely on **supervised fine-tunin
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><a target="_self" rel="noopener noreferrer nofollow" href="https://arxiv.org/pdf/2501.12948v1" style="pointer-events: none">Read this DeepSeek R1 Research Article</a>: <a target="_self" rel="noopener noreferrer nofollow" href="https://arxiv.org/pdf/2501.12948v1" style="pointer-events: none">https://arxiv.org/pdf/2501.12948v1</a></div>
+<div data-node-type="callout-text"><a target="_self" rel="noopener noreferrer nofollow" href="https://arxiv.org/pdf/2501.12948v1" style="pointer-events: none">Read this DeepSeek R1 Research Article</a>: <a target="_self" rel="noopener noreferrer nofollow" href="https://arxiv.org/pdf/2501.12948v1" style="pointer-events: none" title="DeepSeek R1 Research Article">https://arxiv.org/pdf/2501.12948v1</a></div>
 </div>
 
 ### **What is Reinforcement Learning (RL)?**
